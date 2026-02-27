@@ -1,5 +1,6 @@
-
-msg:"Welcome To cart service
 server:
-  port: 8081
+  port: 7000
+  
+msg:"Welcome To cart service
+
       
