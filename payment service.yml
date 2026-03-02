@@ -1,5 +1,5 @@
 server:
-  port: 8083   # custom port for payment service
+  port: 8085   # custom port for payment service
 
 spring:
   datasource:
